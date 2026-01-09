@@ -1,6 +1,7 @@
 <img width="997" height="335" alt="AIRRRR" src="https://github.com/user-attachments/assets/d4981975-65b8-44f2-8135-88d5f7e182fa" />
 
 
+
 🚀 End-to-End Data Engineering Project | Airbnb Analytics Pipeline
 
 Built an end-to-end data pipeline that takes raw Airbnb CSV data and turns it into analytics-ready models using AWS S3, dbt, and Snowflake, following production-style warehouse patterns.
@@ -25,6 +26,7 @@ AWS S3 | Snowflake | dbt Core | SQL | Jinja | Python
 ![airbnb](https://github.com/user-attachments/assets/c1a19d54-0b40-4160-9d7a-6669f5f2e518)
 
 This project forced me to think beyond “writing SQL” and focus on scalability, cost efficiency, and data reliability, similar to how pipelines behave in real production environments.
+
 
 
 
