@@ -22,6 +22,7 @@ Transformation Layer: Snowflake + dbt (Silver & Gold)
 Consumption Layer: Analytics-ready fact & dimension tables
 
 Medallion Architecture Implementation
+
 🟤 Bronze Layer – Raw Ingestion
 
 Ingested raw CSV files from AWS S3 into Snowflake.
@@ -121,6 +122,7 @@ Modeling Patterns: Medallion Architecture, Star Schema, OBT, SCD Type 2
 ![airbnb](https://github.com/user-attachments/assets/c1a19d54-0b40-4160-9d7a-6669f5f2e518)
 
 This project forced me to think beyond “writing SQL” and focus on scalability, cost efficiency, and data reliability, similar to how pipelines behave in real production environments.
+
 
 
 
